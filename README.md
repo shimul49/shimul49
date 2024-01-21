@@ -7,4 +7,4 @@
 - 💬 Ask me about Java/Spring Boot, PHP/Laravel, JavaScript, and React
 <br>
 <h4>📫 How to reach me:</h4>
-<a href="https://www.linkedin.com/in/ihteshamul-alam/" target="_blank"><img src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg'></a>
+<a href="https://www.linkedin.com/in/ihteshamul-alam/" target="_blank"><img src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg' height="40" width="40"></a>
